@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TsargradTV" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/ink</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorOnPrimary">@color/ink</item>
+        <item name="colorPrimaryContainer">@color/gold_soft</item>
+        <item name="colorOnPrimaryContainer">@color/gold</item>
+        <item name="colorSecondary">@color/gold</item>
+        <item name="colorOnSecondary">@color/ink</item>
+        <item name="colorSecondaryContainer">@color/gold_soft</item>
+        <item name="colorOnSecondaryContainer">@color/gold</item>
+        <item name="colorSurface">@color/panel</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/panel_solid</item>
+        <item name="colorOnSurfaceVariant">@color/white_dim</item>
+        <item name="colorOutline">@color/stroke_soft</item>
+        <item name="android:colorAccent">@color/gold</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="panel_side_margin">96dp</dimen>
+    <dimen name="panel_bottom_margin">24dp</dimen>
+    <dimen name="top_bar_side_padding">40dp</dimen>
+    <dimen name="top_bar_top_padding">24dp</dimen>
+    <dimen name="top_bar_bottom_padding">36dp</dimen>
+</resources>

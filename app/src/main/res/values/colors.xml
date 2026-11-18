@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#FF07090C</color>
+    <color name="panel">#FF171B21</color>
+    <color name="panel_solid">#FF14181D</color>
+    <color name="panel_glass">#E614181D</color>
+    <color name="white">#FFF6F7F8</color>
+    <color name="white_dim">#B8F6F7F8</color>
+    <color name="white_muted">#7AF6F7F8</color>
+    <color name="gold">#FFC9A227</color>
+    <color name="gold_soft">#33C9A227</color>
+    <color name="live_red">#FFE0455E</color>
+    <color name="live_red_soft">#26E0455E</color>
+    <color name="stroke_soft">#26FFFFFF</color>
+</resources>

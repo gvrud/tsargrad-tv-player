@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Царьград ТВ</string>
+    <string name="channel_name">ЦАРЬГРАД ТВ</string>
+    <string name="live_badge">LIVE</string>
+    <string name="source_label">ИСТОЧНИК</string>
+    <string name="source_rutube">RuTube</string>
+    <string name="source_vk">VK Video</string>
+    <string name="listen_audio">Слушать аудио</string>
+    <string name="watch_video">Смотреть видео</string>
+    <string name="audio_mode_title">Только аудио</string>
+    <string name="audio_mode_subtitle">Видео отключено — эфир продолжает звучать</string>
+    <string name="loading">Настраиваем эфир…</string>
+    <string name="quality_auto">АВТО</string>
+    <string name="quality_auto_with">АВТО · %1$dp</string>
+    <string name="quality_audio">АУДИО</string>
+    <string name="reload">Обновить эфир</string>
+    <string name="controls_toggle">Показать или скрыть управление</string>
+    <string name="error_title">Эфир не запустился</string>
+    <string name="error_retry">Повторить</string>
+    <string name="error_switch">Попробовать %1$s</string>
+    <string name="error_no_network">Нет подключения к интернету. Проверьте сеть и повторите.</string>
+    <string name="error_no_stream">На источнике %1$s сейчас нет доступного эфира.</string>
+    <string name="error_source">Не удалось получить поток с источника %1$s. Проверьте подключение и повторите.</string>
+    <string name="error_playback">Поток с источника %1$s прервался. Попробуйте ещё раз.</string>
+    <string name="error_vk_auth">VK Video не отдал поток. Выберите RuTube или обновите параметры VK в Streams.kt.</string>
+    <string name="error_generic">Не удалось запустить эфир. Попробуйте другой источник.</string>
+    <string name="toast_source">Источник: %1$s</string>
+</resources>
